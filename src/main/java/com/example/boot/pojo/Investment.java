@@ -1,5 +1,6 @@
 package com.example.boot.pojo;
 
+
 public class Investment {
 
 	private int investmentId;
